@@ -1,0 +1,7 @@
+Something broke during set up 
+
+Unable to debug the issue. Could possibly install the 2nd version of the project 
+npm i 
+Then see if we get the deprecated code / versions again 
+
+
